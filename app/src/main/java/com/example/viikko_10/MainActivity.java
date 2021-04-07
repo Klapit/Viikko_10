@@ -44,3 +44,5 @@ public class MainActivity extends AppCompatActivity {
         web.evaluateJavascript("javascript:initialize()", null);
     }
 }
+
+//testaillaan
